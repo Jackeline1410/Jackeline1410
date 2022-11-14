@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jackeline1410
-- 👀 I’m interested in front end developer
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on projects in ReactJS
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Java, MySQL and AngularJS
+- 💞️ I’m looking to collaborate on projects in JavaScript and ReactJS
 - 📫 How to reach me through my LinkedIn
 
 <!---
